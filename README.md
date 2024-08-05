@@ -1,0 +1,4 @@
+- 👋 Cześć jestem devblazefusion
+- 👀 Interesuje się programowaniem od 2 miesięcy
+- 🌱 Aktualnie ucze się języka c++ i c#
+- 💞️ Szukam studia do tworzenia gier
